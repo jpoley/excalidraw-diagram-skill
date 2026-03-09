@@ -17,6 +17,7 @@ Clone or download this repo, then copy it into your project's `.claude/skills/` 
 
 ```bash
 git clone https://github.com/coleam00/excalidraw-diagram-skill.git
+mkdir -p .claude/skills/excalidraw-diagram
 cp -r excalidraw-diagram-skill .claude/skills/excalidraw-diagram
 ```
 
